@@ -11,4 +11,4 @@ Team member1 : Abineshkumar V (4211191061002)
 
 Team member2 : Balaji Ragavendra Raj R (4211191061004)
 
-Team member3 : Gopinathu S (4211191061009)
+Team member3 : Gopinath S (4211191061009)
